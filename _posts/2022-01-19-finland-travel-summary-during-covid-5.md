@@ -13,6 +13,8 @@ author: eason
 
 > Helsinkin 是芬蘭的首都及最大城市，接近聖誕時分，走在街上都可以感受到滿滿的節慶氣氛和數不盡的聖誕樹，為夜晚的街道增添幾分浪漫的色彩。
 
+{% include ads.html %}
+
 ## Helsinkin
 
 結束聖誕村的歡樂時光後，我們一行人搭著計程車前往機場，搭著 FinnAir 再次回到 Helsinkin。
@@ -23,11 +25,13 @@ author: eason
 
 {% include video id="J-oAHU-Dm-c" provider="youtube" %} 
 
+{% include ads.html type="media" %}
+
 放下行李後，就在市區附近閒晃一路晃到超市。不逛還好，一逛馬上就被整牆的優格吸引：
 
 ![](assets/images/finland-travel-summary-during-covid/yogurt-in-shops.jpg)
 
-要不是籃子太小，差點就全部都丟進購物籃裡了。除了優格，還有加 Vitamin D 或是其他維生素的種類，這裡還有各式各樣奇奇怪怪的乳製品。這麼多樣的商品，看來看來去還是本地品牌的希臘優格 (Valio)。非常不錯，無色又無味，果然是希臘優格：
+要不是籃子太小，差點就全部都丟進購物籃裡了。除了優格，還有加 Vitamin D 或是其他維生素的種類，這裡還有各式各樣奇奇怪怪的乳製品。這麼多樣的商品，看來看來去還是本地品牌的希臘優格 (Valio) (非常不錯，無色又無味，果然是希臘優格)：
 
 ![](assets/images/finland-travel-summary-during-covid/greek-yogurt.jpg)
 
@@ -57,7 +61,7 @@ author: eason
 
 ![](assets/images/finland-travel-summary-during-covid/senate-square-tree-me.jpg)
 
-留在 Helsinkin 的時間剛好遇到芬蘭的 [Saint Lucy's Day](https://en.wikipedia.org/wiki/Saint_Lucy%27s_Day)，就這樣一路走到市議會廣場附近的教堂，與滿滿的人潮一同參與這項十分傳統的節日：
+留在 Helsinkin 的時間剛好遇到芬蘭的 [Saint Lucy's Day](https://en.wikipedia.org/wiki/Saint_Lucy%27s_Day)，就這樣一路走到市議會廣場附近的教堂，看著滿滿的人潮，一同迎接 Saint Lucia 的出現：
 
 ![](assets/images/finland-travel-summary-during-covid/senate-square-night.jpg)
 
@@ -67,6 +71,8 @@ author: eason
 
 芬蘭跟隔壁的瑞典有著很深的淵源，所以在芬蘭看到同樣的慶典也是蠻不錯的體驗。
 
+{% include ads.html type="media" %}
+
 {% include video id="h55gNGWSuVU" provider="youtube" %} 
 
 ### Christmas market
@@ -75,11 +81,13 @@ author: eason
 
 {% include video id="2WfenDi4RkY" provider="youtube" %} 
 
+{% include ads.html type="media" %}
+
 ![](assets/images/finland-travel-summary-during-covid/xmas-market-night.png)
 
 ![](assets/images/finland-travel-summary-during-covid/hel-xmas-market-1.jpg)
 
-這裡的市集大概是文藝市集加上夜市的綜合版，相對精緻且充滿了各式個樣的商品販售。
+這裡的市集大概是台灣文藝市集加上台灣夜市的綜合版，相對精緻且充滿了各式個樣的商品販售。
 
 ![](assets/images/finland-travel-summary-during-covid/hel-xmas-market-2.jpg)
 
@@ -91,7 +99,7 @@ author: eason
 
 ### Oodi Central Library
 
-在市區閒晃，我就跟著同團友人在芬蘭生活好幾年的台灣人朋友 (V) 一路晃到了圖書館。Helsinkin 市區圖書館 (Oodi) 是最近才落成的，所以一進去馬上就被新穎的設備吸引，不囉唆直接上圖：
+在市區閒晃，我就跟著同團友人在芬蘭生活好幾年的台灣人朋友 (V)，就在他的引領下一路在圖書館晃晃。Helsinkin 市區圖書館 (Oodi) 是最近才落成的，所以一進去馬上就被新穎的設備吸引，不囉唆直接上圖：
 
 ![](assets/images/finland-travel-summary-during-covid/oodi-1.jpg)
 
@@ -99,7 +107,7 @@ author: eason
 
 ![](assets/images/finland-travel-summary-during-covid/oodi-3.jpg)
 
-Oodi 圖書館打造的理念為「所有人」的圖書館，館內的旋轉樓梯上的文字象徵這間像所有人開放，不論種族、年齡、性別。
+Oodi 圖書館打造的理念為「所有人」的圖書館，V 跟著我們說館內的旋轉樓梯上的文字象徵這間像所有人開放，不論種族、年齡、性別、不管你是快樂、悲傷的人 .... blah blah，總之上面提到了各種形容詞和名詞，如果沒有他這麼一說我大概只會感覺設計的一種表示方式。
 
 ![](assets/images/finland-travel-summary-during-covid/oodi-4.jpg)
 
@@ -134,6 +142,8 @@ Oodi 圖書館打造的理念為「所有人」的圖書館，館內的旋轉樓
 {% include figure image_path="assets/images/finland-travel-summary-during-covid/finnish-bar.jpg" alt="V 介紹的芬蘭酒吧" caption="V 介紹的芬蘭酒吧 (Finnish Bar) 裡面有販售各種當地的 Lager/Stout" %}
 
 市區固然有趣，不過很快的，接下來發生的事情迎來了我人生中對於芬蘭文化美好的體驗之一。
+
+{% include ads.html %}
 
 ## 繼續閱讀
 

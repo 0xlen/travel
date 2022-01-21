@@ -13,6 +13,8 @@ author: eason
 
 > 眼看著列車即將抵達目的地，卻因為突如其來的意外可能下不了車...心想一個人得跟著列車繼續往北開到北極圈的荒郊野外、且人煙稀少的小鎮
 
+{% include ads.html %}
+
 ### 聖誕列車 ... 驚魂記?
 
 就在目送阿北離開後，我們的列車也悄悄抵達 Tikkurila 車站。剛走出車站外極大的溫差，瞬間讓我了解到原來凍僵與熱到脫褲子原來只有一扇自動門的距離。
@@ -115,6 +117,8 @@ author: eason
 
 唯一要注意的是，走在路上要小心的大概就是各種被朋友偷襲的可能，因為路上都是現成的雪塊，只要一個一言不合隨時可以發起攻擊。
 
+{% include ads.html type="media" %}
+
 {% include video id="rfyfhKG6zeQ" provider="youtube" %}
 
 在 Rovaniemi 晚上跟著 Nordic Unique Travels 抱著想看極光的心情，隨著在地人的步伐驅車到距離 Rovaniemi 北邊有一段距離的私房地點。
@@ -127,6 +131,8 @@ author: eason
 
 {% include video id="Vji2YPchy9E" provider="youtube" %}
 
+{% include ads.html type="media" %}
+
 想要認真的體驗一次芬蘭桑拿，只需要在一陣憨熱後，全身脫光在零下負 10 度的溫度跑出去，跳進結冰的湖裡再回來，絕對是人生中美好的體驗之一。
 
 什麼？你說快冷死了？
@@ -138,6 +144,8 @@ author: eason
 但也因為室外冰冷的溫度，圍在火堆旁吃著燒烤格外溫暖，讓人感覺在陰冷的黑暗中感到充滿希望。總覺得芬蘭當地的木材燒出來火焰的顏色特別鮮明、空氣中更是瀰漫著一股濃郁但不刺鼻的木炭香味。
 
 ![](assets/images/finland-travel-summary-during-covid/sauna-bbq.jpg)
+
+{% include ads.html type="media" %}
 
 {% include video id="_nKNh-YHBio" provider="youtube" %}
 

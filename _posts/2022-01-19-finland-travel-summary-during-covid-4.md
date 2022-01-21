@@ -13,6 +13,8 @@ author: eason
 
 > 馴鹿、哈士奇、雪橇和極光 - 芬蘭人認為聖誕老人來自於 Rovaniemi，意外的讓 Rovaniemi 成為大家官方唯一認證聖誕老人的居住地，來到 Santa Claus Village，你可以到達他的辦公室拜訪聖誕老人。
 
+{% include ads.html %}
+
 ## Santa Claus Village (聖誕老人村)
 
 場景轉換到 Santa Claus Village (聖誕村)，自從有聖誕老人居住在北極圈的傳說，讓芬蘭人認為聖誕老人來自於 Rovaniemi。這也意外的讓 Rovaniemi 成為大家官方唯一認證聖誕老人的居住地，並且在該處設立了聖誕村。
@@ -33,11 +35,13 @@ author: eason
 
 ![](assets/images/finland-travel-summary-during-covid/santa-main-post-office.jpg)
 
+{% include ads.html type="media" %}
+
 {% include video id="utW-7m4SQdY" provider="youtube" %}
 
 ### 橫跨北極圈
 
-在聖誕村橫走個幾步你就可以到達北極圈的交界點 (北緯66°34′)，斗大的標誌讓人很難不注意原來橫跨北極圈是前所未有的如此輕鬆：
+在聖誕村橫走個幾步你就可以到達北極圈的交界點，斗大的標誌讓人很難不注意原來橫跨北極圈是前所未有的如此輕鬆：
 
 ![](assets/images/finland-travel-summary-during-covid/artic-circle-wall.jpg)
 
@@ -83,7 +87,9 @@ author: eason
 
 ![](assets/images/finland-travel-summary-during-covid/nova-room-4.jpg)
 
-但是掃過一遍齊全的設施，卻一度讓我好奇為什麼這裡的住宿好像都沒有冰箱。一個恍然大悟，**才想到這裡根本不需要冰箱，所有你需要的，是把飲料往地上一插**：
+但是掃過一遍齊全的設施，卻一度讓我好奇為什麼這裡的住宿冰箱都有點小。一個恍然大悟，**才想到這裡根本不需要冰箱，所有你需要的，是把飲料往地上一插**：
+
+{% include ads.html type="media" %}
 
 {% include video id="fuoA5bYCa88" provider="youtube" %}
 
@@ -98,6 +104,8 @@ author: eason
 ![](assets/images/finland-travel-summary-during-covid/nothing-light.jpg)
 
 再次驗證果然極光可遇不可求。
+
+{% include ads.html %}
 
 ## 繼續閱讀
 

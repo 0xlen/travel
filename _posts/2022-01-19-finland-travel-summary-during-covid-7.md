@@ -13,6 +13,8 @@ author: eason
 
 > 就這樣一路過安檢、閒晃，本以為可以安心的一路回去。未料竟然是開啟另一個愛與恨交織的返程....
 
+{% include ads.html %}
+
 ## 愛與恨交織的返程
 
 即將返程的時候，除了前天根據在預約的檢測點完成 COVID 檢測外，為了避免搭飛機不必要的麻煩，我在 Airbnb 也不忘尋找可以列印的店家。(都是多虧 RyanAir)
@@ -65,6 +67,7 @@ author: eason
 >
 > 地勤：So the priority is one small bag and one cabin bag instead of two cabin bag. Sorry you have to pay 45 euro to check-in this bag.
 
+{% include ads.html %}
 
 我真的是傻了，前幾天**我一路搭 RyanAir 飛來芬蘭，帶著同樣大小的包，大搖大擺在地勤前排隊過 RyanAir 的登機門都沒有這個狀況** (不然我這段早就在 check-in 前先另外買好託運了，而不是花這種冤望錢)。而且我搭乘 FinnAir 帶著同樣的背包跟袋子，也可以正常搭機，看來，**RyanAir 地勤教育訓練對於行李合規的認定看來是不太一致的**。
 
@@ -83,6 +86,8 @@ author: eason
 不過我擔心因為等行李的時間太長，如果又在那邊點機器會卡到轉機流程，還是乖乖的拿出手機，在 App 線上刷下一段已經 check-in 好機票的行李 - **€43.05 euro**，覺得大失血但也無可奈何。
 
 **結果，這買下去真的是我整趟旅途另一個很後悔的操作。**
+
+{% include ads.html %}
 
 ## 繼續閱讀
 

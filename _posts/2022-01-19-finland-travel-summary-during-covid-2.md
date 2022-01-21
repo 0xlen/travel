@@ -13,13 +13,15 @@ author: eason
 
 > 一番功夫終於搭乘英國前往芬蘭的班機，有趣的是，我在搭飛機的時候獲得一個奇怪的知識點，從歐洲飛往英國的飛機上，只要在飛機上不管是購買餐點或是購物，服務人員都會問你要用英鎊還是歐元結帳。
 
+{% include ads.html %}
+
 ## 前往芬蘭尋找聖誕老人
 
 抵達芬蘭的旅途就在增加奇怪的知識中度過，飛機一落地往窗外看去一片結冰的路面，很難不意識到自己從稍微冷一點的地方來到超冷的座標，令人瑟瑟顫抖的冷風毫不吝嗇的給予我擁抱。機上每個人都在飛機停泊、安全帶指示燈熄燈的瞬間，用每秒 33 楨影格都跟不上速度完成大衣著裝。
 
 {% include figure image_path="assets/images/finland-travel-summary-during-covid/hel-airport-night.jpg" alt="飛機降落在 Helsinkin 機場" caption="飛機降落在 Helsinkin 機場" %}
 
-由於芬蘭長年溫度都接近零下，我這次行李包跟背包主要就塞了幾件大衣，因為也要前往北極圈 (Nordic Circle)，在雪地靴子是必備的裝備。為了實現背包客少而輕量的旅遊計畫，其他不可或缺的裝備如下：
+由於芬蘭長年溫度都接近零下，我這次行李包跟背包主要就塞了幾件大衣，因為也要前往北極圈 (Arctic Circle)，在雪地靴子是必備的裝備。為了實現背包客少而輕量的旅遊計畫，其他不可或缺的裝備如下：
 
 - 毛帽 (之前爬玉山買的 Arcteryx 毛帽，這大概是我少數幾個買得起始祖鳥的裝備 😂)
 - 全程穿著買的打折踢不爛 (Timberland) 防水靴
@@ -33,12 +35,12 @@ author: eason
   - No, I am living in ...
 - What's the purpose of your visit Finland?
   - I am here for tourism and will visit Santa Claus Village. (遞出預先列印好的簡易行程表)
-- Where are going to live?
+- Where are you going to live?
   - I am going to take night train head to Rovaniemi and stay at these places. Here is my reservations. (拿出列印的住宿訂單收據)
 - Why you are living in three different hotels?
   - Because it closes to Christmas, it is very hard to arrange the same accommodation, especially in Santa Claus village.
-- Why you are going to get back Helsinkin?
-  - Because the COVID restrictions, I expect to stay in Rovaniemi for just few days, and come back to Helsinkin for doing COVID testing before flying back. My return flight is on Dec 15.
+- Why are you going to get back to Helsinkin?
+  - Because the COVID restrictions. I expect to stay in Rovaniemi for just few days, and come back to Helsinkin for doing COVID testing before flying back. My return flight is on Dec 15.
 
 我後來才知道有可能是自己忘記把在其他歐洲國家的居留證拿出來，加上疫情的關係，只拿台灣護照的關係所以問了特別多。總之，就這樣跟移民官聊了幾分鐘，就幫我在護照上蓋章放我通關了。
 
@@ -56,7 +58,9 @@ author: eason
 
 {% include video id="fRLDee8kido" provider="youtube" %}
 
-後來才明白他真正的用途是重複利用的擦手布！
+{% include ads.html type="media" %}
+
+**後來才明白他真正的用途是重複利用的擦手布！**
 
 因為抵達芬蘭已經是晚上時間，也預計要搭夜班的夜鋪火車一路睡到 Rovaniemi，所以就索性在機場找個地方吃飯。
 
@@ -78,9 +82,11 @@ Helsinkin 機場裡面也有 24 小時的超商，可以看到一整排的優格
 
 商店裡面各式各樣的東西都有，連整塊的冷凍鮭魚也賣。但令我驚訝的是我在這間店的自助結賬機的時候，覺得他的結帳流程有點讓人困惑。
 
+{% include ads.html type="media" %}
+
 {% include video id="fIOsTohaj8U" provider="youtube" %}
 
-在結帳得時候提示 `Please scan your frequent shopping card`，以為是可以直接刷 Debit/Credit Card 結帳了，一直傻傻的拿 Google Pay 刷發現都不過。結果導致機器還一度因為重試太多次鎖住，一直轉頭請店員 unlock。
+在結帳得時候提示 `Please scan your frequent shopping card`，以為是可以直接刷 Debit/Credit Card 結帳了，一直傻傻的拿 Google Pay 刷發現都不過 (這應該是要拿出類似會員卡之類的累積紅利)。結果導致機器還一度因為重試太多次鎖住，一直轉頭請店員 unlock。
 
 (店員心裡大概已經默念一萬遍你這個愚蠢的客人請直接按 `No Customer Card` 好嗎！)。
 
@@ -89,6 +95,8 @@ Helsinkin 機場裡面也有 24 小時的超商，可以看到一整排的優格
 ![](assets/images/finland-travel-summary-during-covid/hel-1.jpg)
 
 ![](assets/images/finland-travel-summary-during-covid/hel-raiway.jpg)
+
+{% include ads.html %}
 
 ![](assets/images/finland-travel-summary-during-covid/hel-2.jpg)
 
@@ -114,9 +122,11 @@ Helsinkin 機場裡面也有 24 小時的超商，可以看到一整排的優格
 
 > I think he is crazy.
 
-看來警衛們對於阿北在車站展現這樣的熱情早已是見怪不怪，輕鬆自如的戴上手套，然後阿北就被帶走了。留下長長的身影和踉蹌的步伐，連衣袖也沒揮的在警衛的牽引下漸行漸遠。
+看來警衛們對於阿北在車站展現這樣的熱情早已是見怪不怪，輕鬆自如的戴上手套，攙扶起阿北，然後阿北就被帶走了。只留下長長的身影和踉蹌的步伐，連衣袖也沒揮的在警衛的牽引下漸行漸遠。
 
 ![](assets/images/finland-travel-summary-during-covid/finland-uncle-arrest.jpg)
+
+{% include ads.html %}
 
 ## 繼續閱讀
 
