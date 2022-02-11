@@ -2,3 +2,7 @@ finland:
   name: finland
   description: False
   cover: False
+ireland:
+  name: ireland
+  description: False
+  cover: False
