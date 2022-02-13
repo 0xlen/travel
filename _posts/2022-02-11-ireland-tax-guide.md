@@ -23,7 +23,7 @@ author: eason
 
 - Income Tax (IT)：所得稅
 - [Pay Related Social Insurance (PRSI)](https://www.gov.ie/en/publication/80e5ab-prsi-pay-related-social-insurance/)：社會福利和養老金保險 (類似台灣的勞保)
-- [Universal Social Charge (USC)](https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx)：由於在愛爾蘭很多情況下公眾醫療是不用付費的，這就是用於繳納健康保險，我不知道怎麼翻，總而言之是類似健保的東西，
+- [Universal Social Charge (USC)](https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx)：由於在愛爾蘭很多情況下公眾醫療是不用付費的，這就是用於繳納健康保險，我不知道怎麼翻，總而言之是類似健保的東西
 
 ##### Income Tax (IT)：所得稅
 
@@ -45,7 +45,7 @@ Universal Social Charge 也會根據收入級距有不同的扣繳比例 [^usc-r
 
 - 稅務試算：[PwC Income tax calculator](https://download.pwc.com/ie/budget-2022/income-tax-calculator.html)
 
-### Tax Credit 和 Tax Ralief 的差別
+### Tax Credit 和 Tax Relief 的差別
 
 我第一次看到這兩個名詞的時候有點搞不太懂這之間的差異，不過在找一些資料後終於明白這之間的區別，分別是：
 
@@ -58,7 +58,7 @@ Universal Social Charge 也會根據收入級距有不同的扣繳比例 [^usc-r
 
 ## 報稅時程和年度
 
-報稅年度就是以每年的，例如：2021 年度的報稅就是提交 **2021 年 1 月 1 日** 至 **2021 年 12 月 12 日** 這中間的所獲得的收入和稅務申報資料。
+報稅年度就是以每年的年初到年底為基準，報稅都是一整年的所有項目，相對容易理解：2021 就報 2021 所有的項目、2022 就是報 2022 所有的項目。具體來說就是例如：2021 年度的報稅就是提交 **2021 年 1 月 1 日** 至 **2021 年 12 月 12 日** 這中間的所獲得的收入和稅務申報資料。
 
 每年的 10 月 31 號是截止日期，用於支付當前納稅的預繳稅款、進行納稅申報。[^citizensinformation-self-assessment-date]
 
