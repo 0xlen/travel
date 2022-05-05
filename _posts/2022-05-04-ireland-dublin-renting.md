@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/ireland-dublin-renting/cover.jpg
 navigation: True
-title: 愛爾蘭租屋指南 - Ireland Renting Guide
+title: 愛爾蘭都柏林租屋指南 - Ireland Dublin Renting Guide
 description: 愛爾蘭的房屋短缺問題已經不是新鮮事，在 Dublin，你有錢不見得還租得到房子，因為光看房就要排隊、看完還不見得租得到。甚至有很多來這裡學習語言的國際學生，因為負擔不起這裡瘋狂且高額的房租、難求一個房間，甚至要在街頭搭帳篷。究竟在愛爾蘭 (Dublin) 租屋有什麼要注意的事項，就讓我們來一次了解。
 date: 2022-05-04 22:00:00
 tags: ['ireland']

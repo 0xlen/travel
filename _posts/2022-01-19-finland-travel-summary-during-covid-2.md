@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/finland-uncle.png
 navigation: True
 title: 疫情下的芬蘭旅遊 (二)：有聖誕老公公也有瘋狂的芬蘭阿伯
+description: 一番功夫終於搭乘英國前往芬蘭的班機，有趣的是，我在搭飛機的時候獲得一個奇怪的知識點，從歐洲飛往英國的飛機上，只要在飛機上不管是購買餐點或是購物，服務人員都會問你要用英鎊還是歐元結帳。
 date: 2022-01-19 11:00:00
 tags: ['finland']
 class: post-template

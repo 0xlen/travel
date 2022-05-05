@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/oodi-helsinki.png
 navigation: True
 title: 疫情下的芬蘭旅遊 (五)：亂晃赫爾辛基 (Helsinkin) 的聖誕節
+description: Helsinkin 是芬蘭的首都及最大城市，接近聖誕時分，走在街上都可以感受到滿滿的節慶氣氛和數不盡的聖誕樹，為夜晚的街道增添幾分浪漫的色彩。
 date: 2022-01-19 14:00:00
 tags: ['finland']
 class: post-template

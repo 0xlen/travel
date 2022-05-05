@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/tree-light.png
 navigation: True
 title: 疫情下的芬蘭旅遊 (八)：出乎意料的航班
+description: 就在一路飛機即將抵達波蘭的時刻，結果，機長廣播..... 於是飛機就這樣硬生生的在空中無限盤旋。
 date: 2022-01-19 17:00:00
 tags: ['finland']
 class: post-template

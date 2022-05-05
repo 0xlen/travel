@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/ireland-tax-guide/cover.jpg
 navigation: True
 title: 愛爾蘭報稅指南 - Ireland Tax Guide
+description: 剛到愛爾蘭 (Ireland) 工作的時候真的是被各種複雜的稅務搞得暈頭轉向，尤其是有許多的社會福利和稅務條件、海外收入的問題。就讓我們來看看如何節稅，以及有什麼要注意的地方吧。
 date: 2022-02-11 20:00:00
 tags: ['ireland']
 class: post-template

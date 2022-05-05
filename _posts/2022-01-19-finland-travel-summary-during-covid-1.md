@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/forest.jpg
 navigation: True
 title: 疫情下的芬蘭旅遊 (一)：忐忑不安的行前準備
+description: 享受了一段幾個月待在西歐島國風情和冬天的爛天氣後，適逢年底聖誕節，想去其他歐洲國家旅遊的心蠢蠢欲動。於是 ...
 date: 2021-01-19 10:00:00
 tags: ['finland']
 class: post-template

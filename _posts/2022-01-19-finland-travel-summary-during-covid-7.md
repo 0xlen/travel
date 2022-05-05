@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/central-station.jpg
 navigation: True
 title: 疫情下的芬蘭旅遊 (七)：返程 - 充滿愛與恨的交織
+description: 就這樣一路過安檢、閒晃，本以為可以安心的一路回去。未料竟然是開啟另一個愛與恨交織的返程....
 date: 2022-01-19 16:00:00
 tags: ['finland']
 class: post-template

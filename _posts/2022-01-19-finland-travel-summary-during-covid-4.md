@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/santa-claus.jpg
 navigation: True
 title: 疫情下的芬蘭旅遊 (四)：橫跨北極圈的聖誕老人村 (Santa Claus Village)
+description: 馴鹿、哈士奇、雪橇和極光 - 芬蘭人認為聖誕老人來自於 Rovaniemi，意外的讓 Rovaniemi 成為大家官方唯一認證聖誕老人的居住地，來到 Santa Claus Village，你可以到達他的辦公室拜訪聖誕老人。
 date: 2022-01-19 13:00:00
 tags: ['finland']
 class: post-template

@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/rovaniemi-train-station.png
 navigation: True
 title: 疫情下的芬蘭旅遊 (三)：開往聖誕村的驚悚列車，下一站，羅瓦涅米 Rovaniemi
+description: 眼看著列車即將抵達目的地，卻因為突如其來的意外可能下不了車...心想一個人得跟著列車繼續往北開到北極圈的荒郊野外、且人煙稀少的小鎮
 date: 2022-01-19 12:00:00
 tags: ['finland']
 class: post-template

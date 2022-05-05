@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/bank-in-uk-ireland-eu/cover.jpg
 navigation: True
 title: 愛爾蘭銀行指南：免帳管費、手續費比較、把錢匯回台灣 - 部分銀行歐洲、英國適用
+description: 到國外工作首要但也最麻煩的事情就是擁有一個銀行帳戶，有趣的是，在歐洲銀行開戶存錢不會有利息，甚至還會在每個季度收取額外的帳管費。尤其愛爾蘭的銀行效率仍多數停留在紙本作業，開一個帳戶既漫長又充滿挑戰，開完仍有各種複雜的手續費等著你；究竟在愛爾蘭 (歐洲) 要怎麼選擇適合的銀行開戶？本篇內容一次整理一網打盡。
 date: 2022-03-22 10:00:00
 tags: ['ireland']
 class: post-template

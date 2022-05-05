@@ -4,6 +4,7 @@ current: post
 cover:  assets/images/finland-travel-summary-during-covid/cover/sisu.jpg
 navigation: True
 title: 疫情下的芬蘭旅遊 (六)：Sisu (希甦)
+description: Sisu (類似於中文的「希甦」)，你很難在其他語言中找到完全等於「希甦」的字彙，它是一個古老的芬蘭概念，是一種將挑戰轉化為機會的態度，又帶有衝勁和決心的意思。
 date: 2022-01-19 15:00:00
 tags: ['finland']
 class: post-template
