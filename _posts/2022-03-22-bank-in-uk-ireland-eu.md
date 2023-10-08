@@ -118,11 +118,23 @@ N26 在德國受到監管並且屬於銀行機構，並且存在歐洲存款保�
 
 ### Revolut
 
-想避免不必要的手續費，可以考慮申請 Revolut 作為交易的帳戶之一，並且提供 Debit Card。會提供可用的 MasterCard 號碼和帳戶 IBAN，可以透過銀行、Google Pay 等方式加值。使用 Revolut 發的 Debit Card 卡(實體/虛擬)進行一般交易可免去手續費、或者提領現金。申辦全程線上並且提交相關的居留證 (IRP)、護照文件即可在手機 App 上完成：
+想避免不必要的手續費，可以考慮申請 Revolut 作為交易的帳戶之一，並且提供 Debit Card。會提供可用的 VISA 號碼和帳戶 IBAN，可以透過銀行、Google Pay 等方式加值。使用 Revolut 發的 Debit Card 卡(實體/虛擬)進行一般交易可免去手續費、或者提領現金。申辦全程線上並且提交相關的居留證 (IRP)、護照文件即可在手機 App 上完成：
 
 - [點此申請 Revolut 帳戶](https://revolut.com/referral/yangxiy3ux!MAR1-22-AR)
 
-要注意的是，Revolut 是新興的 Fintech，不是傳統的銀行/金融機構，可能會有安全性的疑慮，建議不要做為主要往來帳戶。
+要注意的是，Revolut 是新興的 Fintech，不是傳統的銀行/金融機構，如果有安全性的疑慮，建議不要做為主要往來帳戶。
+
+(2023 更新)
+
+Revolut 在 2021 年底獲得歐盟中央銀行 European Central Bank (ECB) 的銀行營業牌照，並且在 2022 年獲得愛爾蘭的核准營業，目前在愛爾蘭已經正式作為「銀行」營業 (並未有實體分行)，因此註冊後你會獲得 `IE` 開頭的 IBAN 號碼，並且由愛爾蘭政府監管，適用 Central Bank Deposit Guarantee Scheme (DGS) [^revolut-deposit-insurance-info]：
+
+> Revolut Bank UAB is authorised by the Bank of Lithuania in the Republic of Lithuania and by the European Central Bank and is regulated by the Central Bank of Ireland for conduct of business rules.
+
+但由於 Revolut 本身的銀行牌照過去於立陶宛申請，因此適用在立陶宛的存款 100, 000 歐元的保險 (Lithuanian State company Deposit and Investment Insurance)，並且適用其他歐盟成員國的分行。[^is-safe-with-revolut]
+
+> The Irish DGS also protects deposits held at EU branches of authorised Irish institutions. So for example if AIB was offering savings accounts to German customers from a branch in Berlin, these customers would be covered by the Irish scheme and not the German one. 
+>
+> As Revolut has a Lithuanian banking licence and is therefore regulated by the Lithuanian central bank, its customers in Ireland are covered by Lithuania's own version of the DGS up to €100,000.
 
 ### Wise (原為 TransferWise)
 
@@ -136,7 +148,7 @@ Wise 是世界上成長速度最快的線上匯款和電子貨幣服務提供商
 
 ### KBC
 
-KBC 算是愛爾蘭網銀做得非常好的一家銀行，每月帳戶只要有 €2,000 Euro 即可以免帳管費和多項手續費。不過存在消息與 Bank of Ireland 正在談攏業務併購的事項。
+KBC 算是愛爾蘭網銀做得非常好的一家銀行，每月帳戶只要有 €2,000 Euro 即可以免帳管費和多項手續費。~~不過存在消息與 Bank of Ireland 正在談攏業務併購的事項。~~ (2023 年 KBC 已經退出愛爾蘭市場，並且已經與 Bank of Ireland 合併)
 
 ### EBS
 
@@ -151,3 +163,5 @@ EBS 為 AIB 的子公司，主要以做房屋貸款、個人信貸和存款業�
 [^wise-safety]: [我把錢存放在Wise帳戶是否安全？](https://wise.com/zh-hk/help/articles/2949821/%E6%88%91%E6%8A%8A%E9%8C%A2%E5%AD%98%E6%94%BE%E5%9C%A8wise%E5%B8%B3%E6%88%B6%E6%98%AF%E5%90%A6%E5%AE%89%E5%85%A8?origin=related-article-2932693)
 [^n26-money-protection]: [Deposit protection: why your money is protected](https://n26.com/en-eu/blog/deposit-protection-why-your-money-is-protected)
 [^n26-supported-contries]: [Can I open an N26 account in my country?](https://support.n26.com/en-eu/account-and-personal-details/opening-an-account/can-i-open-an-n26-account-in-my-country#:~:text=We%20offer%20our%20accounts%20in,%2C%20Spain%2C%20Sweden%20and%20Switzerland.)
+[^is-safe-with-revolut]: [Is your money safe with Revolut?](https://www.bonkers.ie/blog/banking/is-your-money-safe-with-revolut/)
+[^revolut-deposit-insurance-info]: [Revolut Deposit Insurance Information](https://www.revolut.com/en-IE/legal/deposit-insurance-information/)
